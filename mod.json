@@ -1,0 +1,6 @@
+{
+  "name": "tour-routes",
+  "version": "0.0.1",
+  "apiDependencies": ["tour-routes"]
+}
+

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+    </login>
+    <p>
+        <title>demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+            <tour-routes>
+        <i>
+            <title>
+                car
+            </title>
+            <days>
+                light-weight laptop
+            </days>
+            <food>
+                notebook
+            </food>
+            <spot>
+                mobilephone
+            </spot>
+            <view_count>
+                screen
+            </view_count>
+            <fav_count>
+                laptop
+            </fav_count>
+            <tag>
+                notebook
+            </tag>
+            <img>
+                //a.oxm1.cc/img/fox.jpg
+            </img>
+        </i>
+    </tour-routes>
+    </data>
+</root>
