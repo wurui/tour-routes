@@ -14,33 +14,37 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <tour-routes>
-        <i>
-            <title>
-                car
-            </title>
-            <days>
-                light-weight laptop
-            </days>
-            <food>
-                notebook
-            </food>
-            <spot>
-                mobilephone
-            </spot>
-            <view_count>
-                screen
-            </view_count>
-            <fav_count>
-                laptop
-            </fav_count>
-            <tag>
-                notebook
-            </tag>
-            <img>
-                //a.oxm1.cc/img/fox.jpg
-            </img>
-        </i>
-    </tour-routes>
+        <tour-routes>
+            <i>
+                <title>杭州桐庐一日游</title>
+                <days>1</days>
+                <food>7</food>
+                <spot>3</spot>
+                <view_count>50000</view_count>
+                <fav_count>40</fav_count>
+                <tag>必游路线</tag>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9t16jvjTj9jbv1u9Ro3esA49pj-630.jpg</img>
+            </i>
+            <i>
+                <title>杭州大运河2日游</title>
+                <days>2</days>
+                <food>6</food>
+                <spot>4</spot>
+                <view_count>45000</view_count>
+                <fav_count>49</fav_count>
+                <tag>人文路线</tag>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9t16h7jTj9jbv4i9RrhvtAdeuc-713.jpg</img>
+            </i>
+            <i>
+                <title>西湖探春2日游</title>
+                <days>2</days>
+                <food>7</food>
+                <spot>7</spot>
+                <view_count>15001</view_count>
+                <fav_count>20</fav_count>
+                <tag>山水之旅</tag>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9t16l23Tj9jbv0npR1u8pA4w2s-594.jpg</img>
+            </i>
+        </tour-routes>
     </data>
 </root>
